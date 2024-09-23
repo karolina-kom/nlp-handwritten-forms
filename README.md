@@ -4,7 +4,7 @@ Natural Language Processing (NLP) and Optical Character Recognition (OCR) for Ha
 ## Languages/Environments
 Python (Jupyter Notebook)
 
-## Dataset Used
+## Datasets
 [NIST Special Dataset 19](https://www.nist.gov/srd/nist-special-database-19)
 
 ## Date Completed
