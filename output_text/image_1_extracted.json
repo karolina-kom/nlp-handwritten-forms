@@ -1,0 +1,30 @@
+{
+    "Date": {
+        "extracted_text": "\u00a7-3-59",
+        "true_label": "8-3-89"
+    },
+    "City": {
+        "extracted_text": "Dyppea CML",
+        "true_label": "Minden City"
+    },
+    "State": {
+        "extracted_text": "a",
+        "true_label": "Mi"
+    },
+    "ZIP": {
+        "extracted_text": "CFELSZ",
+        "true_label": "48456"
+    },
+    "0123456789_1": {
+        "extracted_text": "Ol2A3YSC7E?",
+        "true_label": "0123456789"
+    },
+    "0123456789_2": {
+        "extracted_text": "",
+        "true_label": "0123456789"
+    },
+    "0123456789_3": {
+        "extracted_text": "Of 23 YSEIEP",
+        "true_label": "0123456789"
+    }
+}
