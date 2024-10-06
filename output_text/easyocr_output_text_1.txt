@@ -18,7 +18,7 @@ Please print thbe following characters in tbe boxes that appear below.
 0123456 7 8 9
 0 1
 234567 8.9
-2123456222
+2123451222
 2123456782
 0/239s778
 701
@@ -61,8 +61,8 @@ LZ/e
 4234
 46002
 ELxlake dubtiLum"gienhes_
-2XXLA KPdebLULLEw filen boce
-2XS BNGECMYWATKFLU0 HPIR V DJ 4
+2XXLA KPdebLULLEw filen hoce
+2XS BNGECMYWATKFL U0 HPIR V DJ 4
 ZXSBLGECmYWGTKfLUoHP irv PJA
 Pkeasc print thc folloming text in the box below:
 the People o thc United States,
